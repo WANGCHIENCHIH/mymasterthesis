@@ -7,3 +7,9 @@
 # 參考API
 
 ## [tensorflow/models](https://github.com/tensorflow/models)
+
+# 論文比對報告如附檔
+
+## 上傳論文比對系統時間為2020年7月14日，也就是論文口試前
+
+## 上傳的論文為口試後經修正後的論文V7版本
